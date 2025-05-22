@@ -1,0 +1,897 @@
+[
+  {
+    "frameName": "titleOtimo",
+    "type": "title",
+    "content": "Ótimo, [nome]!",
+    "style": {
+      "font-size": "2rem"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p3-play"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 0,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 2,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgAlerta",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/alerta.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 3,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 8,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "titleCombinacao",
+    "type": "title",
+    "content": "Combinação:<br>[numero-destino] <span style='color: var(--color-yellow);'>-</span> [numero-expressão] <span style='color: var(--color-yellow);'>-</span> [numero-nascimento] <span style='color: var(--color-yellow);'>-</span> [numero-personalidade] <span style='color: var(--color-yellow);'>-</span> [numero-alma]",
+    "moving": true,
+    "style": {
+      "max-width": "80vw",
+      "font-size": "2rem"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 9,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 23,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgPersonalidade",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/personalidade.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p3-revela"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 24,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 43,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgLeitura1",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/leitura1.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 44,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 63,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgLeitura2",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/leitura2.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 64,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 83,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgLeitura3",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/leitura3.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 84,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 106,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgUrgente",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/urgente.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p3-oportunidade"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 107,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 111,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgSeq-de-eventos",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/seq-de-eventos.png",
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 112,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 117,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgSeq-de-eventos-momento-raro",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/seq-de-eventos-momento-raro.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 117,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 122,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgLabirinto",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/labirinto.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 122,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 129,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgRicardo",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/ricardo.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 130,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 142,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgGrid-3-momentos-0",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/grid-3-momentos-0.png",
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p3-3momentos"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 143,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 149,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgGrid-3-momentos-1",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/grid-3-momentos-1.png",
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 149,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 154,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgGrid-3-momentos-2",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/grid-3-momentos-2.png",
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 154,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 159,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgGrid-3-momentos-3",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/grid-3-momentos-3.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 159,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 164,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgSeq-de-eventos-momento-raro",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/seq-de-eventos-momento-raro.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 165,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 174,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgGrid-2-com-sem-numerologia",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/grid-2-com-sem-numerologia.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p3-numerologia"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 175,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 183,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgLabirinto",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/labirinto.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 184,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 188,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgNumerologia-quando",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/numerologia-quando.png",
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 189,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 192,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgNumerologia-como",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/numerologia-como.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 192,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 198,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgIceberg",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/iceberg.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p3-openloop"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 199,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 212,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgTalentos-escondidos",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/talentos-escondidos.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 213,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 216,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgMelhor-caminho",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/melhor-caminho.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 217,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 219,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgAproveitar-chances",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/aproveitar-chances.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p3-form"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 220,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 224,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "form4",
+    "type": "form",
+    "content": "[form4]",
+    "time": 225
+  }
+]

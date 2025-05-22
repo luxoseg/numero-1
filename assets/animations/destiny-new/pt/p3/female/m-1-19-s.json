@@ -1,0 +1,897 @@
+[
+  {
+    "frameName": "titleOtimo",
+    "type": "title",
+    "content": "Ótimo, [nome]!",
+    "style": {
+      "font-size": "2rem"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p3-play"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 0,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 2,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgAlerta",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/alerta.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 3,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 8,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "titleCombinacao",
+    "type": "title",
+    "content": "Combinação:<br>[numero-destino] <span style='color: var(--color-yellow);'>-</span> [numero-expressão] <span style='color: var(--color-yellow);'>-</span> [numero-nascimento] <span style='color: var(--color-yellow);'>-</span> [numero-personalidade] <span style='color: var(--color-yellow);'>-</span> [numero-alma]",
+    "moving": true,
+    "style": {
+      "max-width": "80vw",
+      "font-size": "2rem"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 9,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 23,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgPersonalidade",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/personalidade.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p3-revela"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 24,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 42,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgLeitura1",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/leitura1.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 43,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 61,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgLeitura2",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/leitura2.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 62,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 80,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgLeitura3",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/leitura3.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 81,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 101,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgUrgente",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/urgente.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p3-oportunidade"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 102,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 106,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgSeq-de-eventos",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/seq-de-eventos.png",
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 107,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 112,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgSeq-de-eventos-momento-raro",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/seq-de-eventos-momento-raro.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 112,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 117,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgLabirinto",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/labirinto.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 117,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 124,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgRicardo",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/ricardo.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 125,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 137,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgGrid-3-momentos-0",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/grid-3-momentos-0.png",
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p3-3momentos"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 138,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 144,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgGrid-3-momentos-1",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/grid-3-momentos-1.png",
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 144,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 149,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgGrid-3-momentos-2",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/grid-3-momentos-2.png",
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 149,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 154,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgGrid-3-momentos-3",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/grid-3-momentos-3.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 154,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 159,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgSeq-de-eventos-momento-raro",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/seq-de-eventos-momento-raro.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 160,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 169,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgGrid-2-com-sem-numerologia",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/grid-2-com-sem-numerologia.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p3-numerologia"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 170,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 178,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgLabirinto",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/labirinto.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 179,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 183,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgNumerologia-quando",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/numerologia-quando.png",
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 184,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 187,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgNumerologia-como",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/numerologia-como.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 187,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 193,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgIceberg",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/iceberg.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p3-openloop"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 194,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 207,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgTalentos-escondidos",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/talentos-escondidos.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 208,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 211,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgMelhor-caminho",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/melhor-caminho.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 212,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 214,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgAproveitar-chances",
+    "type": "image",
+    "content": "/assets/imgs/destiny-new/pt/aproveitar-chances.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p3-form"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 215,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 219,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "form4",
+    "type": "form",
+    "content": "[form4]",
+    "time": 220
+  }
+]

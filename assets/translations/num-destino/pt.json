@@ -1,0 +1,368 @@
+{
+    "texts": [
+        {
+            "id": "headline",
+            "type": "text",
+            "text": "Seu Caminho Revelado: <span style='color:var(--color-yellow);'>Teste Numerológico Grátis</span>"
+        },
+        {
+            "id": "subheadline",
+            "type": "text",
+            "text": "Deixe os Números Guiarem Você ao Sucesso em <span style='color:var(--color-yellow);'>2025</span>"
+        },
+        {
+            "id": "box-header",
+            "type": "text",
+            "text": "Uma leitura em vídeo, <em>100% personalizada e gratuita</em>, está pronta para revelar as verdades escondidas em seus números. Descubra seu caminho para <span style='color:var(--color-yellow);'><b>2025</b></span>."
+        },
+        {
+            "id": "btn-back",
+            "type": "text",
+            "text": "Voltar"
+        },
+        {
+            "id": "user-details-month",
+            "type": "text",
+            "text": "1º Passo - Clique no mês que você nasceu:"
+        },
+        {
+            "id": "month-1",
+            "type": "text",
+            "text": "Janeiro"
+        },
+        {
+            "id": "month-2",
+            "type": "text",
+            "text": "Fevereiro"
+        },
+        {
+            "id": "month-3",
+            "type": "text",
+            "text": "Março"
+        },
+        {
+            "id": "month-4",
+            "type": "text",
+            "text": "Abril"
+        },
+        {
+            "id": "month-5",
+            "type": "text",
+            "text": "Maio"
+        },
+        {
+            "id": "month-6",
+            "type": "text",
+            "text": "Junho"
+        },
+        {
+            "id": "month-7",
+            "type": "text",
+            "text": "Julho"
+        },
+        {
+            "id": "month-8",
+            "type": "text",
+            "text": "Agosto"
+        },
+        {
+            "id": "month-9",
+            "type": "text",
+            "text": "Setembro"
+        },
+        {
+            "id": "month-10",
+            "type": "text",
+            "text": "Outubro"
+        },
+        {
+            "id": "month-11",
+            "type": "text",
+            "text": "Novembro"
+        },
+        {
+            "id": "month-12",
+            "type": "text",
+            "text": "Dezembro"
+        },
+        {
+            "id": "birthday",
+            "type": "text",
+            "text": "Informe seu dia de nascimento"
+        },
+        {
+            "id": "birth-decade",
+            "type": "text",
+            "text": "Informe sua decada de nascimento"
+        },
+        {
+            "id": "birth-year",
+            "type": "text",
+            "text": "Informe seu ano de nascimento"
+        },
+        {
+            "id": "first-name",
+            "type": "text",
+            "text": "Informe o seu primeiro nome"
+        },
+        {
+            "id": "buttonFormUser",
+            "type": "text",
+            "text": "Clique aqui para continuar"
+        },
+        {
+            "id": "number-expression",
+            "type": "text",
+            "text": "Clique aqui para continuar"
+        },
+        {
+            "id": "buttom-number-soul",
+            "type": "text",
+            "text": "Clique aqui para continuar"
+        },
+        {
+            "id": "gender-user",
+            "type": "text",
+            "text": "Qual é o seu sexo?"
+        },
+        {
+            "id": "male",
+            "type": "text",
+            "text": "Masculino"
+        },
+        {
+            "id": "female",
+            "type": "text",
+            "text": "Feminino"
+        },
+        {
+            "id": "full-name-birth",
+            "type": "text",
+            "text": "Qual é o seu nome completo?<br><span style='font-size: 70%; font-style: italic; color: white;'>Digite todos os seus nomes e sobrenomes. Exemplo: Maria Clara de Souza Andrade</span>"
+        },
+        {
+            "id": "subtitule-id",
+            "type": "text",
+            "text": "Para receber a <b>continuação</b> da sua leitura GRATUITA, preencha os dados abaixo..."
+        },
+        {
+            "id": "marital-status",
+            "type": "text",
+            "text": "Qual é o seu estado civil?"
+        },
+        {
+            "id": "married",
+            "type": "text",
+            "text": "Casado(a)"
+        },
+        {
+            "id": "relationship",
+            "type": "text",
+            "text": "Namorando"
+        },
+        {
+            "id": "engaged",
+            "type": "text",
+            "text": "Noivo(a)"
+        },
+        {
+            "id": "single",
+            "type": "text",
+            "text": "Solteiro(a)"
+        },
+        {
+            "id": "separated",
+            "type": "text",
+            "text": "Separado(a)"
+        },
+        {
+            "id": "widowed",
+            "type": "text",
+            "text": "Viúvo(a)"
+        },
+        {
+            "id": "email-address",
+            "type": "text",
+            "text": "Seu Endereço de E-mail"
+        },
+        {
+            "id": "modal-pitch-title",
+            "type": "text",
+            "text": "Você quer aprofundar na sua Leitura?"
+        },
+        {
+            "id": "modal-pitch-btn-y",
+            "type": "text",
+            "text": "Sim, Eu Quero"
+        },
+        {
+            "id": "cta-title",
+            "type": "text",
+            "text": "Clique no botão abaixo para garantir o seu Mapa da Vida Completo - <span>De <s>R$ 500</s> Por Apenas 12x R$ 19,70</span>"
+        },
+        {
+            "id": "cta-buy",
+            "type": "text",
+            "text": "COMPRAR AGORA"
+        },
+        {
+            "id": "secure-cta",
+            "type": "text",
+            "text": "Compra 100% segura"
+        },
+        {
+            "id": "cta-people",
+            "type": "text",
+            "text": "Mais de meio milhão de pessoas encomendaram o seu Mapa da Vida!"
+        },
+        {
+            "id": "testimony-cta",
+            "type": "text",
+            "text": "Quando você terminar de ler seu Mapa da Vida Completo, você vai pensar que foi escrito por alguém que conhece você... Vai deixar você perplexo!\" - Marcia, Porto Alegre / RS."
+        },
+        {
+            "id": "guarantee-cta",
+            "type": "text",
+            "text": "Faça sua compra agora e você receberá seu Mapa da Vida Completo. Sabemos que você obterá um enorme valor com esta análise detalhada e personalizada, mas, se dentro do prazo de 7 dias você decidir que não está 100% satisfeito com seu Mapa da Vida Completo, envie-nos um e-mail para suporte@numerosophy.com.br solicitando o seu reembolso."
+        },
+        {
+            "id": "finish-one",
+            "type": "text",
+            "text": "1º Passo: Preencha as informações abaixo"
+        },
+        {
+            "id": "result",
+            "type": "text",
+            "text": "<h3>Resultado para<br /><span></span></h3><p>Por favor, aumente o volume para ouvir a apresentação e clique no botão abaixo…</p>"
+        },
+        {
+            "id": "play-btn-animation",
+            "type": "text",
+            "text": "COMEÇAR"
+        },
+        {
+            "id": "reading-off",
+            "type": "text",
+            "text": "Sua leitura vai sair do ar em breve."
+        },
+        {
+            "id": "reading-last",
+            "type": "text",
+            "text": "Essa é a sua última chance de assistir até o final"
+        },
+        {
+            "id": "btn-continue",
+            "type": "text",
+            "text": "Continuar assistindo"
+        },
+        {
+            "id": "contact-footer",
+            "type": "text",
+            "text": "Contato"
+        },
+        {
+            "id": "affilliates-footer",
+            "type": "text",
+            "text": "Afiliados"
+        },
+        {
+            "id": "privacy-footer",
+            "type": "text",
+            "text": "Política de Privacidade"
+        },
+        {
+            "id": "terms-footer",
+            "type": "text",
+            "text": "Termos de Uso"
+        },
+        {
+            "id": "disclaimer-footer",
+            "type": "text",
+            "text": "<p>Todo o conteúdo deste site, incluindo textos, imagens, áudio, vídeo, layout, design, código-fonte e software, é propriedade de Numerosophy, protegido pelas leis de direitos autorais do Brasil e tratados internacionais.</p><p> O registro de nossa marca e propriedade intelectual foi efetuado junto à Biblioteca Nacional e ao I</p><p>Qualquer reprodução, distribuição, transmissão, exibição, publicação ou cópia deste conteúdo sem autorização expressa por escrito da Numerosophy é estritamente proibida e será objeto de medidas judiciais cabíveis para a proteção de nossos direitos, conforme legislação aplicável sobre direitos autorais e propriedade.</p>"
+        },
+        {
+            "id": "copy-footer",
+            "type": "text",
+            "text": "© 2025 Numerosophy.<br>Todos os direitos reservados."
+        },
+        {
+            "id": "btn-loading",
+            "type": "text",
+            "text": "Calculando...."
+        },
+        {
+            "id": "ctaProduct",
+            "type": "image",
+            "src": "https://video.astranumerica.com.br/assets/imgs/cta.png"
+        },
+        {
+            "id": "ctaSecurity",
+            "type": "image",
+            "src": "https://video.astranumerica.com.br/assets/imgs/cadeado.png"
+        },
+        {
+            "id": "ctaPayments",
+            "type": "image",
+            "src": "https://video.astranumerica.com.br/assets/imgs/formas-de-pagamento.png"
+        },
+        {
+            "id": "ctaUser",
+            "type": "image",
+            "src": "https://video.astranumerica.com.br/assets/imgs/user.jpg"
+        },
+        {
+            "id": "ctaGarantia",
+            "type": "image",
+            "src": "https://video.astranumerica.com.br/assets/imgs/garantia.png"
+        }
+    ],
+    "translations": {
+        "alerts": [
+            "Por favor, adicione seu nome completo!",
+            "Por favor, preencha seu nome completo corretamente!",
+            "Preencha os campos corretamente",
+            "Preencha seu primeiro nome",
+            "Digite apenas seu Primeiro Nome, sem espaços",
+            "Somente letras são permitidos.",
+            "Por favor, selecione sua data de nascimento!",
+            "Por favor, preencha todos os campos",
+            "Preencha o nome completo",
+            "Selecione seu gênero",
+            "Email inválido, adicione o @",
+            "Por favor, preencha todos os campos"
+        ],
+        "months": {
+            "January": "Janeiro",
+            "February": "Fevereiro",
+            "March": "Março",
+            "April": "Abril",
+            "May": "Maio",
+            "June": "Junho",
+            "July": "Julho",
+            "August": "Agosto",
+            "September": "Setembro",
+            "October": "Outubro",
+            "November": "Novembro",
+            "December": "Dezembro"
+        },
+        "placeholders": [
+            "Digite Seu Primeiro Nome",
+            "(Digite aqui) Ex: Maria Clara de Souza Andrade",
+            "Digite o Endereço de E-mail (obrigatório)",
+            "Digite seu telefone...",
+            "Dig,ite seu DDD e telefone"
+        ],
+        "animations": [
+            "Nome: ",
+            "Data de Nascimento: "
+        ]
+    },
+    "pathCheckout": "SUA_URL_DE_CHECKOUT",
+    "pathCheckoutmb": "SUA_URL_DE_CHECKOUT_MOBILE",
+    "pathAnimations": "assets/animations/destiny-new/pt/",
+    "pathAudios": "/assets/audio/destiny-new/pt/",
+    "pathLegends": "/assets/legends/destiny-new/pt/",
+    "lead": 67162,
+    "offer": 67198,
+    "lang": "pt"
+}

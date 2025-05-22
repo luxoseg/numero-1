@@ -1,0 +1,519 @@
+[
+  {
+    "type": "codeExtend",
+    "name": "expressionCalcAnimation",
+    "time": 0,
+    "endTime": 13
+  },
+  {
+    "frameName": "imgNumerologia-famosos",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/numerologia-famosos.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p2-play"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 14,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 24,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgNumero-expressao",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/numero-expressao.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 25,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 27,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgGrid-destino",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/grid-destino.png",
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 28,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 31,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgGrid-expressao",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/grid-expressao.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 31,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 37,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgGrid2-mudar-vida",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/grid2-mudar-vida.png",
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 38,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 40,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgGrid2-segredos",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/grid2-segredos.png",
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 40,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 42,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgGrid2-dons",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/grid2-dons.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 42,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 44,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "type": "codeExtend",
+    "name": "expressionCalcAnimation",
+    "time": 45,
+    "endTime": 60
+  },
+  {
+    "frameName": "imgNumero",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/04.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p2-revela"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 61,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 77,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgExpressao1",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/expressao1.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 78,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 94,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgExpressao2",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/expressao2.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 95,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 111,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgNumero2",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/04.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 112,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 128,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgIncrivel",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/incrivel.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p2-openloop"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 129,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 136,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgSeq-de-eventos",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/seq-de-eventos.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 137,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 147,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "imgGrid-3-momentos-0",
+    "type": "image",
+    "content": "https://video.astranumerica.com.br/assets/imgs/destiny-new/pt/grid-3-momentos-0.png",
+    "moving": true,
+    "style": {
+      "width": "360px",
+      "max-width": "80vw"
+    },
+    "dataLayer": {
+      "event": "mdvpt-p2-form"
+    },
+    "efects": [
+      {
+        "type_animation": "fromTo",
+        "position_from": "center",
+        "duration": 1,
+        "time": 148,
+        "from_animation": {
+          "opacity": 0,
+          "scale": 1
+        },
+        "to_animation": {
+          "opacity": 1,
+          "scale": 1
+        }
+      },
+      {
+        "type_animation": "to",
+        "duration": 1,
+        "time": 156,
+        "to_animation": {
+          "opacity": 0,
+          "scale": 1
+        }
+      }
+    ]
+  },
+  {
+    "frameName": "form3",
+    "type": "form",
+    "content": "[form3]",
+    "time": 157
+  }
+]
